@@ -1,1 +1,1 @@
-https://madsok.github.io/rsschool-cv/cv
+https://madsok.github.io/rsschool-cv/
